@@ -42,7 +42,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/mocha": "^2.2.40",
+    "@types/mocha": "^2.2.43",
     "@types/node": "^8.0.3",
     "expect.js": "^0.3.1",
     "mocha": "^3.2.0",
